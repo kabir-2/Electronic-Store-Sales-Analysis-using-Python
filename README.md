@@ -23,5 +23,4 @@ Tools Used:<br>
   • Matplotlib: For creating visualizations to aid in understanding trends and patterns within the data.<br>
 
 Goal:<br>
-
 The goal is to provide the electronic store with data-driven insights that can inform strategic decisions and optimize business performance based on comprehensive sales analysis.<br>
